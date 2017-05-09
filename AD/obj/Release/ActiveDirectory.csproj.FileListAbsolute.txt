@@ -1,0 +1,9 @@
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AD\bin\Release\ActiveDirectory.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AD\bin\Release\ActiveDirectory.pdb
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AD\obj\Release\ResolveAssemblyReference.cache
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AD\obj\Release\ActiveDirectory.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AD\obj\Release\ActiveDirectory.pdb
+Y:\Coding\Projects\lib\AD\bin\Release\ActiveDirectory.dll
+Y:\Coding\Projects\lib\AD\bin\Release\ActiveDirectory.pdb
+Y:\Coding\Projects\lib\AD\obj\Release\ActiveDirectory.dll
+Y:\Coding\Projects\lib\AD\obj\Release\ActiveDirectory.pdb

@@ -1,0 +1,12 @@
+Z:\protected\DotNetDevelopment\Mike\_TFS\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK_7.4.0\Source\FrameWorkLibrary\ActiveUtilities\bin\Debug\ActiveUtilities.dll
+Z:\protected\DotNetDevelopment\Mike\_TFS\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK_7.4.0\Source\FrameWorkLibrary\ActiveUtilities\bin\Debug\ActiveUtilities.pdb
+Z:\protected\DotNetDevelopment\Mike\_TFS\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK_7.4.0\Source\FrameWorkLibrary\ActiveUtilities\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+Z:\protected\DotNetDevelopment\Mike\_TFS\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK_7.4.0\Source\FrameWorkLibrary\ActiveUtilities\bin\Debug\office.dll
+Z:\protected\DotNetDevelopment\Mike\_TFS\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK_7.4.0\Source\FrameWorkLibrary\ActiveUtilities\bin\Debug\office.xml
+Z:\protected\DotNetDevelopment\Mike\_TFS\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK_7.4.0\Source\FrameWorkLibrary\ActiveUtilities\obj\Debug\ResolveAssemblyReference.cache
+Z:\protected\DotNetDevelopment\Mike\_TFS\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK_7.4.0\Source\FrameWorkLibrary\ActiveUtilities\obj\Debug\ActiveUtilities.AutomationCountsGroupbox.resources
+Z:\protected\DotNetDevelopment\Mike\_TFS\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK_7.4.0\Source\FrameWorkLibrary\ActiveUtilities\obj\Debug\ActiveUtilities.dll
+Z:\protected\DotNetDevelopment\Mike\_TFS\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK_7.4.0\Source\FrameWorkLibrary\ActiveUtilities\obj\Debug\ActiveUtilities.pdb
+Y:\Coding\Projects\ActiveUtilities\obj\Debug\ActiveUtilities.csprojResolveAssemblyReference.cache
+Y:\Coding\Projects\ActiveUtilities\obj\Debug\ActiveUtilities.AutomationCountsGroupbox.resources
+Y:\Coding\Projects\ActiveUtilities\obj\Debug\ActiveUtilities.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+Point p;
+if (GetCursorPos(out p))
+{
+   IntPtr hWnd = WindowFromPoint(p);
+   SetWindowText(hWnd, "Window Found");
+}

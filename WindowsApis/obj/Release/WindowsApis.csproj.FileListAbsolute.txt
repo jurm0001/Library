@@ -1,0 +1,9 @@
+Z:\protected\DotNetDevelopment\Mike\Development\lib\WindowsApis\bin\Release\WindowsApis.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\WindowsApis\bin\Release\WindowsApis.pdb
+Z:\protected\DotNetDevelopment\Mike\Development\lib\WindowsApis\obj\Release\ResolveAssemblyReference.cache
+Z:\protected\DotNetDevelopment\Mike\Development\lib\WindowsApis\obj\Release\WindowsApis.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\WindowsApis\obj\Release\WindowsApis.pdb
+Y:\Coding\Projects\lib\WindowsApis\obj\Release\WindowsApis.pdb
+Y:\Coding\Projects\lib\WindowsApis\bin\Release\WindowsApis.dll
+Y:\Coding\Projects\lib\WindowsApis\bin\Release\WindowsApis.pdb
+Y:\Coding\Projects\lib\WindowsApis\obj\Release\WindowsApis.dll

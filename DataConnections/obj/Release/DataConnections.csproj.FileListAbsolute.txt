@@ -1,0 +1,11 @@
+Z:\protected\DotNetDevelopment\Mike\Development\lib\DataConnections\bin\Release\DataConnections.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\DataConnections\bin\Release\DataConnections.pdb
+Z:\protected\DotNetDevelopment\Mike\Development\lib\DataConnections\bin\Release\IBM.Data.DB2.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\DataConnections\obj\Release\ResolveAssemblyReference.cache
+Z:\protected\DotNetDevelopment\Mike\Development\lib\DataConnections\obj\Release\DataConnections.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\DataConnections\obj\Release\DataConnections.pdb
+Y:\Coding\Projects\lib\DataConnections\bin\Release\DataConnections.dll
+Y:\Coding\Projects\lib\DataConnections\bin\Release\DataConnections.pdb
+Y:\Coding\Projects\lib\DataConnections\bin\Release\IBM.Data.DB2.dll
+Y:\Coding\Projects\lib\DataConnections\obj\Release\DataConnections.dll
+Y:\Coding\Projects\lib\DataConnections\obj\Release\DataConnections.pdb

@@ -1,0 +1,12 @@
+Z:\protected\DotNetDevelopment\Mike\_TFS\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK_7.4.0\Source\FrameWorkLibrary\DataConnections\bin\Debug\DataConnections.dll
+Z:\protected\DotNetDevelopment\Mike\_TFS\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK_7.4.0\Source\FrameWorkLibrary\DataConnections\bin\Debug\DataConnections.pdb
+Z:\protected\DotNetDevelopment\Mike\_TFS\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK_7.4.0\Source\FrameWorkLibrary\DataConnections\bin\Debug\IBM.Data.DB2.dll
+Z:\protected\DotNetDevelopment\Mike\_TFS\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK_7.4.0\Source\FrameWorkLibrary\DataConnections\obj\Debug\ResolveAssemblyReference.cache
+Z:\protected\DotNetDevelopment\Mike\_TFS\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK_7.4.0\Source\FrameWorkLibrary\DataConnections\obj\Debug\DataConnections.dll
+Z:\protected\DotNetDevelopment\Mike\_TFS\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK\SO_INNOVATION_FRAMEWORK_7.4.0\Source\FrameWorkLibrary\DataConnections\obj\Debug\DataConnections.pdb
+Z:\protected\DotNetDevelopment\Mike\Development\lib\DataConnections\bin\Debug\DataConnections.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\DataConnections\bin\Debug\DataConnections.pdb
+Z:\protected\DotNetDevelopment\Mike\Development\lib\DataConnections\bin\Debug\IBM.Data.DB2.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\DataConnections\obj\Debug\ResolveAssemblyReference.cache
+Z:\protected\DotNetDevelopment\Mike\Development\lib\DataConnections\obj\Debug\DataConnections.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\DataConnections\obj\Debug\DataConnections.pdb

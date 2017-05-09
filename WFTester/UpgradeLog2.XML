@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WFTester">
+</Property><Property Name="Solution File" Value="Z:\protected\DotNetDevelopment\Mike\Development\lib\WFTester\WFTester.sln">
+</Property><Property Name="Date" Value="Wednesday, May 21, 2014">
+</Property><Property Name="Time" Value="9:02:00 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="AD" Source="..\AD\AD.csproj" Description="Project file successfully backed up as Z:\protected\DotNetDevelopment\Mike\Development\lib\WFTester\Backup1\AD.csproj">
+</Event><Event ErrorLevel="0" Project="AD" Source="..\AD\AD.cs" Description="File successfully backed up as Z:\protected\DotNetDevelopment\Mike\Development\lib\WFTester\Backup1\AD.cs">
+</Event><Event ErrorLevel="0" Project="AD" Source="..\AD\CN.cs" Description="File successfully backed up as Z:\protected\DotNetDevelopment\Mike\Development\lib\WFTester\Backup1\CN.cs">
+</Event><Event ErrorLevel="0" Project="AD" Source="..\AD\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\protected\DotNetDevelopment\Mike\Development\lib\WFTester\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AD" Source="..\AD\AD.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AD" Source="..\AD\AD.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AD" Source="..\AD\AD.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

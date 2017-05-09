@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{10A02828-6F7E-4C1D-BA73-2D0755316BE1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AutomationLib</RootNamespace>
+    <AssemblyName>AutomationLib</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AutomationControls\ControlList.cs" />
+    <Compile Include="AutomationControls\Controls\Button\Button.cs" />
+    <Compile Include="AutomationControls\Controls\Button\CheckBox.cs" />
+    <Compile Include="AutomationControls\Controls\Button\RadioButton.cs" />
+    <Compile Include="AutomationControls\Controls\TextBox\RichTextBox.cs" />
+    <Compile Include="AutomationControls\Controls\TextBox\TextBox.cs" />
+    <Compile Include="AutomationControls\Controls\ToolStrip\StatusBar.cs" />
+    <Compile Include="AutomationControls\Controls\ToolStrip\ToolStripBase.cs" />
+    <Compile Include="AutomationControls\IControl.cs" />
+    <Compile Include="AutomationLib.cs" />
+    <Compile Include="AutomationControls\Control.cs" />
+    <Compile Include="AutomationControls\Controls\Button\ButtonBase.cs" />
+    <Compile Include="AutomationControls\Controls\List\ComboBox.cs" />
+    <Compile Include="AutomationControls\Controls\List\Listbox.cs" />
+    <Compile Include="AutomationControls\Controls\ToolStrip\Menu.cs" />
+    <Compile Include="AutomationControls\Controls\ToolStrip\MenuItem.cs" />
+    <Compile Include="AutomationControls\Controls\Others\PBDataWindow.cs" />
+    <Compile Include="AutomationControls\Controls\Others\ReBarWindow32.cs" />
+    <Compile Include="AutomationControls\Controls\Others\Static.cs" />
+    <Compile Include="AutomationControls\Controls\Others\Tabpage.cs" />
+    <Compile Include="AutomationControls\Controls\TextBox\TextboxBase.cs" />
+    <Compile Include="AutomationControls\Controls\Others\Unk.cs" />
+    <Compile Include="Classes\DialogChecker.cs" />
+    <Compile Include="Classes\ErrorMessage.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WindowsApis\WindowsApis.csproj">
+      <Project>{301A3C46-5B19-4E44-AB2D-8B33F8EECB2B}</Project>
+      <Name>WindowsApis</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,5 @@
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AD\bin\Debug\ActiveDirectory.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AD\bin\Debug\ActiveDirectory.pdb
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AD\obj\Debug\ResolveAssemblyReference.cache
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AD\obj\Debug\ActiveDirectory.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AD\obj\Debug\ActiveDirectory.pdb

@@ -1,0 +1,20 @@
+C:\Documents and Settings\b5c5\Desktop\c# apps\ActiveDirectoryApp\AD\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\b5c5\Desktop\c# apps\ActiveDirectoryApp\AD\bin\Debug\AD.dll
+C:\Documents and Settings\b5c5\Desktop\c# apps\ActiveDirectoryApp\AD\bin\Debug\AD.pdb
+C:\Documents and Settings\b5c5\Desktop\c# apps\ActiveDirectoryApp\AD\obj\Debug\AD.dll
+C:\Documents and Settings\b5c5\Desktop\c# apps\ActiveDirectoryApp\AD\obj\Debug\AD.pdb
+Z:\protected\DotNetDevelopment\Mike\Development\cSharpApps\ActiveDirectoryApp\AD\bin\Debug\AD.dll
+Z:\protected\DotNetDevelopment\Mike\Development\cSharpApps\ActiveDirectoryApp\AD\bin\Debug\AD.pdb
+Z:\protected\DotNetDevelopment\Mike\Development\cSharpApps\ActiveDirectoryApp\AD\obj\Debug\ResolveAssemblyReference.cache
+Z:\protected\DotNetDevelopment\Mike\Development\cSharpApps\ActiveDirectoryApp\AD\obj\Debug\AD.dll
+Z:\protected\DotNetDevelopment\Mike\Development\cSharpApps\ActiveDirectoryApp\AD\obj\Debug\AD.pdb
+Z:\protected\DotNetDevelopment\Mike\Development\Work Apps\ActiveDirectoryApp\AD\bin\Debug\AD.dll
+Z:\protected\DotNetDevelopment\Mike\Development\Work Apps\ActiveDirectoryApp\AD\bin\Debug\AD.pdb
+Z:\protected\DotNetDevelopment\Mike\Development\Work Apps\ActiveDirectoryApp\AD\obj\Debug\ResolveAssemblyReference.cache
+Z:\protected\DotNetDevelopment\Mike\Development\Work Apps\ActiveDirectoryApp\AD\obj\Debug\AD.dll
+Z:\protected\DotNetDevelopment\Mike\Development\Work Apps\ActiveDirectoryApp\AD\obj\Debug\AD.pdb
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AD\bin\Debug\AD.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AD\bin\Debug\AD.pdb
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AD\obj\Debug\ResolveAssemblyReference.cache
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AD\obj\Debug\AD.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AD\obj\Debug\AD.pdb

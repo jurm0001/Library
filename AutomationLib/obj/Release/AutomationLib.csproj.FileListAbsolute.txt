@@ -1,0 +1,14 @@
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AutomationLib\bin\Release\AutomationLib.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AutomationLib\bin\Release\AutomationLib.pdb
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AutomationLib\bin\Release\WindowsApis.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AutomationLib\bin\Release\WindowsApis.pdb
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AutomationLib\obj\Release\ResolveAssemblyReference.cache
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AutomationLib\obj\Release\AutomationLib.dll
+Z:\protected\DotNetDevelopment\Mike\Development\lib\AutomationLib\obj\Release\AutomationLib.pdb
+Y:\Coding\Projects\lib\AutomationLib\bin\Release\AutomationLib.dll
+Y:\Coding\Projects\lib\AutomationLib\bin\Release\AutomationLib.pdb
+Y:\Coding\Projects\lib\AutomationLib\bin\Release\WindowsApis.dll
+Y:\Coding\Projects\lib\AutomationLib\bin\Release\WindowsApis.pdb
+Y:\Coding\Projects\lib\AutomationLib\obj\Release\AutomationLib.dll
+Y:\Coding\Projects\lib\AutomationLib\obj\Release\AutomationLib.pdb
+Y:\Coding\Projects\lib\AutomationLib\obj\Release\AutomationLib.csprojResolveAssemblyReference.cache
