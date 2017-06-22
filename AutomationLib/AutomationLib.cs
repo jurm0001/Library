@@ -39,8 +39,14 @@ namespace AutomationLib
     {   
         #region Variables       
         protected Process ApplicationProcess = null;
-        protected IntPtr MainHandle = IntPtr.Zero;
-        protected AC.ControlList<AC.Control> _ControlList;
+        private IntPtr _MainHandle = IntPtr.Zero;
+
+        public IntPtr MainHandle
+        {
+            get { return _MainHandle; }
+            set { _MainHandle = value; }
+        }
+        public AC.ControlList<AC.Control> _ControlList;
         protected AC.ControlList<AC.Controls.MenuItem> _MenuControlList;
         public Boolean ExitThead = false;
         protected string AppName = "";
@@ -77,12 +83,15 @@ namespace AutomationLib
             {
                 if (p.MainWindowTitle.IndexOf(partialTitle, 0, StringComparison.CurrentCultureIgnoreCase) > -1)
                 {
+                    //this.MainHandle = p.MainWindowHandle;                         
                     return p.MainWindowHandle;
                 }
             }
             return (IntPtr)0;
         }
         #endregion public IntPtr FindWindowHandleFromPartialTitle(string partialTitle)
+
+
 
         #region public IntPtr FindWindowByCaption(string classname, string Caption)
         /// <summary>
@@ -111,6 +120,21 @@ namespace AutomationLib
         #endregion public IntPtr FindWindowByCaption(string classname, string Caption)
         #endregion FindWindow
 
+
+        public Boolean SetWindowHandleFromPartialTitle(string partialTitle)
+        {
+            Process[] list = Process.GetProcesses();
+            foreach (Process p in Process.GetProcesses())
+            {
+                if (p.MainWindowTitle.IndexOf(partialTitle, 0, StringComparison.CurrentCultureIgnoreCase) > -1)
+                {
+                    this._MainHandle = p.MainWindowHandle;
+                    return true;
+                }
+            }
+            return false;
+        }
+
         #region Start / shutdown
         #region protected void StartApplication(string exe)
         /// <summary>
@@ -123,6 +147,9 @@ namespace AutomationLib
             ApplicationProcess.StartInfo.FileName = exe;
             ApplicationProcess.Start();             
             Thread.Sleep(2000);
+            while (ApplicationProcess.MainWindowHandle == IntPtr.Zero) ;
+
+            this._MainHandle = ApplicationProcess.MainWindowHandle;
         }
         #endregion protected void StartApplication(string exe)
 
@@ -300,9 +327,18 @@ namespace AutomationLib
         }
         #endregion private static bool EnumControls(IntPtr handle, IntPtr pointer)
 
+        public void BuildControlList()
+        {
+            
+            AC.ControlList<AC.Control> handleList = GetChildControls(this._MainHandle);
+            GetMenu(this._MainHandle);
+            ClickMenu("About");
+
+        }
+
         public void BuildControlList(IntPtr Handle)
         {
-            this.MainHandle = Handle;
+            this._MainHandle = Handle;
             AC.ControlList<AC.Control> handleList = GetChildControls(Handle);
             GetMenu(Handle);
             ClickMenu("About");
@@ -433,7 +469,7 @@ namespace AutomationLib
                 //mif.dwTypeData = null;
                 //bool a = User32.GetMenuItemInfo(menuHandle, 0, true, ref mif);
                 uint t = User32.GetMenuItemID(menuHandle, i);
-                _MenuControlList.Add(new AC.Controls.MenuItem(menuHandle, temp.ToString(), "MenuItem", this.MainHandle, (int)t));
+                _MenuControlList.Add(new AC.Controls.MenuItem(menuHandle, temp.ToString(), "MenuItem", this._MainHandle, (int)t));
 
                 
                 Console.WriteLine(t.ToString());
